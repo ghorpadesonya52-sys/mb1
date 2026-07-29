@@ -28,3 +28,4 @@ plt.title("Bubble Sort- Time Complexity is O(n\u00b2)")
 plt.xlabel("Input") 
 plt.ylabel("Time") 
 plt.show()
+save the file
